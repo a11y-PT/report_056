@@ -1,10 +1,10 @@
 ---
-website: "Nome_do_sítio_Web"          # Entre as aspas escreve o nome do website
-date: "31/12/1999"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
-uri: "https://dominio_sitio_web.pt"   # Entre as aspas escreve o domínio do website
-a11y_statement: "https://dominio_sitio_web.pt/acessibilidade" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
-owner: "Nome_do_proprietário"         # Entre as aspas escrever o nome do owner do website
-seal: "_Ouro_"                          # Entre as aspas escreve Bronze, Prata ou Ouro
+website: "PRR - Câmara Municipal de Celorico de Basto"          # Entre as aspas escreve o nome do website
+date: "29/04/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
+uri: "https://www.mun-celoricodebasto.pt/"   # Entre as aspas escreve o domínio do website
+a11y_statement: "https://www.mun-celoricodebasto.pt/declaracao-de-acessibilidade/" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
+owner: "Câmara Municipal de Celorico de Basto"         # Entre as aspas escrever o nome do owner do website
+seal: "Prata"                          # Entre as aspas escreve Bronze, Prata ou Ouro
 ---
 
 # {{ page.website }}
